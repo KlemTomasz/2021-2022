@@ -42,4 +42,11 @@ $text = <<< E
 E;
 echo $text;
 
+//nowdoc
+
+echo <<< 'E'
+  <hr><hr>
+  Imię i nazwisko
+  Janusz $surname
+
 ?>
