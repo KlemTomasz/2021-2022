@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Dołączanie plików</title>
   </head>
   <body>
     <h3>Początek strony</h3>

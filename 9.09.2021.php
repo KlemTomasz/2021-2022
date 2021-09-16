@@ -48,5 +48,5 @@ echo <<< 'E'
   <hr><hr>
   Imię i nazwisko
   Janusz $surname
-
+E;
 ?>
