@@ -1,3 +1,3 @@
 <?php
-  echo "<hr>Zawartość pliku to: <br> ".__FILE__." <hr>";
-?>
+  echo "<hr>Zawartość pliku: ".__FILE__."<hr>";
+ ?>
