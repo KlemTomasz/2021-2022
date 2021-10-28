@@ -14,13 +14,13 @@
       //echo "<br>".$row['name']."<br>";
       while ($row = $result->fetch_assoc()) {
         echo<<<ROW
-        id: $row[id]
+        Id: $row[id]
         <br>
-        imie: $row[name]
+        Imie: $row[name]
         <br>
-        nazwisko: $row[surname]
+        Nazwisko: $row[surname]
         <br>
-        data urodzenia: $row[birthday]
+        Data urodzenia: $row[birthday]
         <hr>
 ROW;
       }
